@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: green;
+}
+
+.converter {
+    margin: 20% auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px greenyellow;
+    width: 300px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+select, button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
